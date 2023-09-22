@@ -1,5 +1,5 @@
 # Programmer: Jacob Mark-Synard
-# Description: The bot uses questions to make a sentence
+# Description: The bot uses the questions to make a sentence
 
 # The bot asks questions to the user
 name = input ("What is your first name? ")
@@ -8,7 +8,7 @@ animal = input ("Give me an animal ")
 vehicle = input ("Give me a type of vehicle ")
 planet = input ("Tell me a planet. ")
 
-# Bot leaves as space between prompts 
+# Bot leaves a space between prompts 
 print()
 
 # Bot turns questons into a sentence
